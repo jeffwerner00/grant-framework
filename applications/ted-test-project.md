@@ -54,7 +54,7 @@ Help us locate your project in the EOSIO landscape and what problems it tries to
 ### Contact
 
 - **Contact Name:** Ted Cahall
-- **Contact Email:** Contact email (e.g. john@duo.com)
+- **Contact Email:** cahall@cahall.com
 - **Website:** http://tedcahall.com
 
 ### Legal Structure
